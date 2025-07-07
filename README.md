@@ -9,6 +9,9 @@ tags:
 licence: license
 ---
 
+## [Version 1](https://huggingface.co/Luke-griggs/small-talk-1.1)
+
+
 # Model Card for dpo-explainer-lora-output-1751838730
 
 This model is a fine-tuned version of [meta-llama/Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct).
