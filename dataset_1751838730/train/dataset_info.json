@@ -1,0 +1,46 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "human-like-dpo-dataset",
+  "dataset_size": 27046590,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/HumanLLMs/Human-Like-DPO-Dataset@dd82ab6a284a15765964149e6a6603ff8ed7d672/data.json": {
+      "num_bytes": 27963353,
+      "checksum": null
+    }
+  },
+  "download_size": 27963353,
+  "features": {
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "chosen": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "rejected": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 55009943,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 27046590,
+      "num_examples": 10884,
+      "dataset_name": "human-like-dpo-dataset"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
