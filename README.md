@@ -9,7 +9,8 @@ tags:
 licence: license
 ---
 
-## [Version 1](https://huggingface.co/Luke-griggs/small-talk-1.1)
+## Model history
+- [https://huggingface.co/Luke-griggs/small-talk-1.1](https://huggingface.co/Luke-griggs/small-talk-1.1)
 
 
 # Model Card for dpo-explainer-lora-output-1751838730
